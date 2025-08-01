@@ -1,0 +1,25 @@
+{
+"nama" : "Dehari Yanto",
+"tempat_lahir" : "Bandung",
+"tanggal_lahir" : "2008-31-12",
+"uang" : "true",
+"alamat":{
+    "jalan" : "Kp. pasawahan RT 04 RW 11",
+    "desa" : "sayati",
+    "kecamatan" : "margahayu"
+},
+"hobi" : [
+    "Bermain bola",
+    "Mabuk",
+    "Mendengarkan musik",
+    "turu"
+
+],
+"kontak" : {
+    "email" : "deharimarhas@gmail.com",
+    "whatsapp" :"089630883241",
+    "github" : "favcore",
+    "instagram" : "nutorchoicer"
+}
+
+}
