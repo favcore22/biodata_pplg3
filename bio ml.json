@@ -1,0 +1,123 @@
+[
+    {
+    "nama" : "Lancelot",
+    "counter" : [
+        "saber",
+        "seber roam",
+        "ceci",
+        "atlas",
+        "fraco"
+
+    ],
+    "winrate" : "49.94%",
+    "pickrate" : "2.29%",
+    "banrate" : "27.34%",
+    "role" : [
+        "Assasin"
+    ],
+
+    "skil" : [
+        "Soul Cutter",
+        "Puncture",
+        "Thorned Rose",
+        "Phantom Execution"
+    ]
+},
+    {
+    "nama2" : "Harith",
+    "counter2" : [
+        "kufra",
+        "pharsa",
+        "novaria",
+        "belerik",
+        "fraco"
+
+    ],
+    "winrate2" : "45.62%",
+    "pickrate2" : "0.33%",
+    "banrate2" : "0.17%",
+    "role2" : [
+        "Mage"
+    ],
+
+    "skil2" : [
+        "Key Insight",
+        "Synchro Fission",
+        "Chrono Dash",
+        "Zaman Force"
+    ]
+},
+{
+"nama3" : "Ling",
+    "counter3" : [
+        "kufra",
+        "Angela",
+        "Eudora",
+        "Layla",
+        "fraco"
+
+    ],
+    "winrate3" : "47.58%",
+    "pickrate3" : "0.75%",
+    "banrate3" : "2.04%",
+    "role3" : [
+        "Assasin"
+    ],
+
+    "skil3" : [
+        "Cloud Walker",
+        "Finch Poise",
+        "Defiant Sword",
+        "Tempest of Blades"
+    ]
+},
+{
+"nama4" : "Hayabusa",
+    "counter4" : [
+        "Kaja",
+        "Ceci",
+        "lapulapu",
+        "Alpa",
+        "fraco"
+
+    ],
+    "winrate4" : "49.69%",
+    "pickrate4" : "1.09%",
+    "banrate4" : "59.64%",
+    "role4" : [
+        "Assasin"
+    ],
+
+    "skil4" : [
+        "Trace of  Shadow",
+        "Phantom  Shuriken",
+        "Quad Shadow",
+        "Shadow Kill"
+    ]
+},
+{
+    "nama5" : "Yi sun shin",
+    "counter5" : [
+        "Terizla",
+        "Uranus",
+        "Kaja",
+        "kaleed",
+        "fraco"
+
+    ],
+    "winrate5" : "55.23%",
+    "pickrate5" : "0.77%",
+    "banrate5" : "62.78%",
+    "role5" : [
+        "Assasin"
+    ],
+
+    "skil5" : [
+        "Heavenly Vow",
+        "Traceless",
+        "Blood Floods",
+        "Mountain Shocker"
+    ]
+
+    }
+]
